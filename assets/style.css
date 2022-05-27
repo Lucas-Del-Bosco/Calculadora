@@ -58,7 +58,7 @@ body::after {
 
 .container .calculator .result {
     grid-column: span 4;
-    height: 140px;
+    height: 145px;
     width: 300px;
     text-align: right;
     border: none;
